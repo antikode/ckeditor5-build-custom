@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5",
+  "name": "@fahrurben/ckeditor5-custom-build",
   "version": "34.1.0",
   "description": "The development environment of CKEditor 5 - the best browser-based rich text editor.",
   "private": true,
